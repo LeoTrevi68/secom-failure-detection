@@ -1,0 +1,8 @@
+Dataset Source
+
+This project uses the SECOM dataset for semiconductor manufacturing.
+
+Source:
+https://archive.ics.uci.edu/ml/datasets/SECOM
+
+The dataset is not included due to size and preprocessing requirements.
